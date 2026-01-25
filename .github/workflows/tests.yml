@@ -24,8 +24,8 @@ jobs:
 
     - name: Run tests
       run: |
-        pytest
+        pytest -m "not asyncio" -v
 
     - name: Run async tests
       run: |
-        pytest -v --asyncio-mode=auto
+        pytest -m asyncio -v --asyncio-mode=auto
