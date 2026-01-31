@@ -12,7 +12,7 @@ Solutions to different tasks from different platforms.
 
 - [x] https://leetcode.com/problems/merge-k-sorted-lists/
 
-- [ ] https://leetcode.com/problems/linked-list-cycle/
+- [x] https://leetcode.com/problems/linked-list-cycle/
 
 - [ ] https://leetcode.com/problems/add-two-numbers/
 
