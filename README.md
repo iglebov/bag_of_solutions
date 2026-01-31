@@ -10,7 +10,7 @@ Solutions to different tasks from different platforms.
 
 ### _linked lists:_
 
-- [ ] https://leetcode.com/problems/merge-k-sorted-lists/
+- [x] https://leetcode.com/problems/merge-k-sorted-lists/
 
 - [ ] https://leetcode.com/problems/linked-list-cycle/
 
