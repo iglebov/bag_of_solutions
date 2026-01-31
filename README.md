@@ -14,7 +14,7 @@ Solutions to different tasks from different platforms.
 
 - [x] https://leetcode.com/problems/linked-list-cycle/
 
-- [ ] https://leetcode.com/problems/add-two-numbers/
+- [x] https://leetcode.com/problems/add-two-numbers/
 
 - [ ] https://leetcode.com/problems/reverse-linked-list/
 
