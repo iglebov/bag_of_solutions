@@ -67,7 +67,7 @@ class BackupManager:
         counter = 0
         with concurrent.futures.ProcessPoolExecutor() as pool:
             while data := in_stream.read(self._folder.MAX_FILE_SIZE):
-                timestamp = datetime.now().strftime('%Y_%m_%d_%H_%M_%S')
+                timestamp = datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
                 name = f"{timestamp}_{counter:06d}"
                 counter += 1
                 task = asyncio.create_task(self.process_chunk(loop, pool, data, name))
