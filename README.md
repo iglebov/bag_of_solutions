@@ -16,7 +16,7 @@ Solutions to different tasks from different platforms.
 
 - [x] https://leetcode.com/problems/add-two-numbers/
 
-- [ ] https://leetcode.com/problems/reverse-linked-list/
+- [x] https://leetcode.com/problems/reverse-linked-list/
 
 ### _binary search:_
 
