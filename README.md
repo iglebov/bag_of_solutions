@@ -42,7 +42,7 @@ Solutions to different tasks from different platforms.
 
 - [ ] https://leetcode.com/problems/group-anagrams/
 
-- [ ] https://leetcode.com/problems/valid-anagram/
+- [x] https://leetcode.com/problems/valid-anagram/
 
 - [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string/
 
