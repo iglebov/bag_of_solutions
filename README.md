@@ -36,7 +36,7 @@ Solutions to different tasks from different platforms.
 
 - [ ] https://leetcode.com/problems/single-number/ - решить за O(1) по памяти
 
-- [ ] https://leetcode.com/problems/two-sum/
+- [x] https://leetcode.com/problems/two-sum/
 
 - [ ] https://leetcode.com/problems/4sum/
 
